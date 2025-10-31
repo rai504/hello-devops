@@ -1,3 +1,7 @@
+# Local jenkins server
+
+http://localhost:8080/job/Hello%20DevOps%20Deploy/configure
+
 # Hello DevOps (CI/CD Demo)
 
 A simple Flask web app deployed using Docker and Jenkins, with GitHub integration for automatic builds.
